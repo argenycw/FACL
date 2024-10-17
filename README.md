@@ -1,4 +1,4 @@
-# NeurIPS Submission
+# Fourier Amplitude and Correlation Loss (FACL)
 This is the official implementation for the paper **Fourier Amplitude and Correlation Loss: Beyond Using L2 Loss for Skillful Precipitation Nowcasting** submitted to NeurIPS 2024.
 
 ## **Environment**
@@ -150,7 +150,7 @@ If you find our work helpful, please cite the following:
 @inproceedings{yan2024fourier,
   title={Fourier Amplitude and Correlation Loss: Beyond
 Using L2 Loss for Skillful Precipitation Nowcasting},
-  author={Yan, Chiu-Wai and Foo, Shi Quan and Trinh, Van Hoan and Yeung, Dit-Yan and Wong, Ka-Hing and Wong, Wai-Kin
+  author={Yan, Chiu-Wai and Foo, Shi Quan and Trinh, Van Hoan and Yeung, Dit-Yan and Wong, Ka-Hing and Wong, Wai-Kin},
   booktitle={NeurIPS},
   year={2024}
 }
